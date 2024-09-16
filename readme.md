@@ -31,7 +31,7 @@
 
 </center>
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/Vijitverm1234/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/Vatsal-Verma/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 <div align="center">
 	
