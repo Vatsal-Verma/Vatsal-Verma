@@ -6,7 +6,7 @@
   class WhoAmI:
     user = 'Vatsal Verma'
 	current_edu = "Persuing BTech."
-    currently_learning = "Springboot"
+    currently_learning = "Springboot and hibernate frameworks"
     fun_fact = "Nada"
 	hobbies = [
 	  'Listening Music',
