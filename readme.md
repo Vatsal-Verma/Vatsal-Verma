@@ -18,7 +18,7 @@
 	          ]
 	
 	def getCity():
-		return Ghaziabad()
+		return Ghaziabad_City()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
