@@ -47,7 +47,7 @@
 
 </div>
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 
 ![CPP](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![SpringBoot](https://img.shields.io/badge/Springboot-%234ea94b.svg?style=for-the-badge&logoColor=white)
