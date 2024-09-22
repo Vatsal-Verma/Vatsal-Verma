@@ -7,7 +7,7 @@
     user = 'Vatsal Verma'
 	current_edu = "Persuing BTech."
     currently_learning = "Springboot and hibernate frameworks"
-    fun_fact = "Nada"
+    fun_fact = "Nothing"
 	hobbies = [
 	  'Listening Music',
           'Chilling',
