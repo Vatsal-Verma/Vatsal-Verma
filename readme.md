@@ -17,7 +17,7 @@
           'History Documentaries'
 	          ]
 	
-	def City():
+	def NameCity():
 		return Ghaziabad_City()
 	
 	def Ambitions():
