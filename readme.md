@@ -13,7 +13,7 @@
           'Chilling',
 	  'Gaming',
 	  'Sci-Fi Movies',
-          'Thriller Movies',
+          'Thriller and Slasher Movies',
           'History Documentaries'
 	          ]
 	
