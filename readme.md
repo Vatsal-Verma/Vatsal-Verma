@@ -14,7 +14,7 @@
 	  'Gaming',
 	  'Sci-Fi Movies',
           'Thriller and Slasher Movies',
-          'History Documentaries'
+          'History Documentaries and BioGraphy'
 	          ]
 	
 	def NameCity():
