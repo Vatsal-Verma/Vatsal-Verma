@@ -46,10 +46,9 @@
  <br/>
 </div> 
 <div align="center">
-	
-
-
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vatsal-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="1shubham7" /> </p>
 
 ## Tech_Stack:
 
