@@ -10,7 +10,7 @@
     fun_fact = "Roses are red, voilets are blue."
 	hobbies = [
 	  'Listening Music',
-          'Chilling',
+          'Chillin',
 	  'Gaming',
 	  'Sci-Fi Movies',
           'Thriller and Slasher Movies',
