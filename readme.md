@@ -3,7 +3,7 @@
 ## Who am I?
 
  ```python
-  class WhoAmI:
+  class Who_Am_I:
     user_name = 'VatsalVerma'
 	current_education = "Persuing BTech"
     currently_learning = "Springboot and hibernate frameworks"
