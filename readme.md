@@ -70,6 +70,8 @@
 <a href="https://www.youtube.com/@superpsychedelics436"><img alt="Youtube" title="Vatsal Verma youtube" src="https://img.shields.io/badge/-Youtube-E34F26?style=for-the-badge&logoColor=white"></a>
 <a href="https://x.com/vatsal_verma_"><img alt="Twitter" title="Vatsal Verma Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://discord.gg/S899Q4eN4V"><img alt="Discord" title="Vatsal Verma Discord" src="https://img.shields.io/badge/Discord-%238511FA.svg?style=for-the-badge&logoColor=white"></a>
+<a href="https://monkeytype.com/profile/vatsal_verma"><img alt="Discord" title="Vatsal Verma MonkeyType" src="https://img.shields.io/badge/MonkeyType-100000?style=for-the-badge&logoColor=white"></a>
+
 </p>
 
 
