@@ -2,27 +2,29 @@
 
 ## Who_am_I:
 
- ```python
-  class WhoAmI:
-    user_name = 'VatsalVerma'
-	current_education = "Persuing BTech"
-    currently_learning = "Springboot and hibernate frameworks"
-    fun_fact = "Roses are red, voilets are blue."
-	hobbies = [
-	  'Listening Music',
-          'Chillin',
-	  'Gaming',
-	  'Sci-Fi Movies',
-          'Thriller and Slasher Movies',
-          'History Documentaries and BioGraphy'
-	          ]
+ ```
+ class FullStackDeveloper {
+	public void display_Fs_Skills() {
+	    System.out.println("Java (core)" + "Java Spring Boot" + "JavaSwings + Fx" + "Hibernate" + "Junit Testing");
+	}
 	
-	def NameCity():
-		return Ghaziabad_city()
+	public void currently_Learning() {
+	    System.out.println("Devops --> Jenkins");
+	}
 	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects() 
+	public void city_I_live_In() {
+	    System.out.println("Ghaziabad");
+	}
+}
+
+class WhoAmI extends FullStackDeveloper{
+	public static void main(String ar[]) {
+		FullStackDeveloper fs = new FullStackDeveloper();
+		fs.display_Fs_Skills();
+		fs.currently_Learning();
+		fs.city_I_live_In();
+	}
+}
 
  ```
 
