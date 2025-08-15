@@ -50,10 +50,6 @@ class WhoAmI extends FullStackDeveloper{
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vatsal-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Vatsal-Verma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vatsal-Verma" alt="#" /></a> </p>
-
-
-
 ## Tech_Stack:
 
 
