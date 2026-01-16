@@ -1,7 +1,8 @@
 # About me
 
-My name is Vatsal Verma, and I am a pre-final student at ABESEC. I am currently pursuing a bachelor's degree in technology in computer science, with a specialization in artificial intelligence and machine learning. I specialize in Java and its frameworks such as `Spring Boot and Hibernate`. I also work on honing my problem-solving skills and have a strong interest in open source, having contributed to several projects.
+My name is Vatsal Verma, and I am a final student at ABESEC. I am currently pursuing a bachelor's degree in technology in computer science, with a specialization in artificial intelligence and machine learning. I specialize in Java and its frameworks such as `Spring Boot and Hibernate`. I also work on honing my problem-solving skills and have a strong interest in open source, having contributed to several projects.
 
+![](https://komarev.com/ghpvc/?username=vatsal-verma&color=green)
 
 # Skills
 
@@ -19,3 +20,5 @@ My name is Vatsal Verma, and I am a pre-final student at ABESEC. I am currently 
 
  <br/>
 </div> 
+
+
